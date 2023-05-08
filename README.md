@@ -1,5 +1,5 @@
 # covidgui
-Covid Tracker with GUI 
+Simple application with live updates about Covid-19 statistics around the world.
 
 
 ![covid1](https://user-images.githubusercontent.com/132295836/236950338-d3a1104c-111a-4de4-a2a9-c2642ef3422b.png)
