@@ -1,0 +1,7 @@
+com\mycompany\coviddz\App.class
+module-info.class
+com\mycompany\mybeans\Countries.class
+com\mycompany\mybeans\Global.class
+com\mycompany\mybeans\MyCovid.class
+com\mycompany\coviddz\Updater.class
+com\mycompany\mybeans\Premium.class
